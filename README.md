@@ -34,8 +34,6 @@ Currently at **Rastaar**, working on **Dreamaan**, an AI creative platform. My w
 | [Calorie Tracker](https://github.com/dorrsakh/Calorie-Tracker) | Meal and workout tracking, calorie goals, and local storage persistence. |
 | [NLP Tools](https://github.com/dorrsakh/NLP-Project) | React and TypeScript frontend prototype for sentiment analysis and question answering. |
 
-Dreamaan is team product work at Rastaar. A closer look at my contribution is available in the [portfolio](https://dorsakhalili.vercel.app/).
-
 ## Background
 
 Previously, I worked on web interfaces at **Pardik Smart Home** and **Bluprint**. Earlier, I taught **Python at Dash Team**.
